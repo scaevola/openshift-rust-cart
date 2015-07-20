@@ -3,7 +3,7 @@ OpenShift Rust Cartridge
 
 Runs [Rust](http://www.rust-lang.org) on [OpenShift](https://openshift.redhat.com/app/login) using downloadable cartridge support.  To install to OpenShift from the CLI (you'll need version 1.9 or later of rhc), run:
 
-    rhc create-app myrust https://cartreflect-claytondev.rhcloud.com/reflect?github=FlaPer87/openshift-rust-cart
+    rhc create-app myrust https://cartreflect-claytondev.rhcloud.com/reflect?github=scaevola/openshift-rust-cart
 
 How it Works
 ------------
